@@ -1,0 +1,102 @@
+.rect {
+  height: 110px;
+  width: 70px;
+  background-color: red;
+}
+.rect {
+  display: in-line block;
+  position: absolute;
+  top: 440px;
+  left:1200px;
+}
+.rect2 {
+  height: 73px;
+  width: 40px;
+  background-color: red;
+}
+.rect2 {
+  display: in-line block;
+  position: absolute;
+  top: 313px;
+  left:1149px;
+}
+.img-fluff {
+    width: 1200px;
+    padding: 115px 0px 0px;
+  }
+.img-rooms{
+  width: 950px;
+  padding: 115px 0px 0px;
+}
+.img-key {
+  width: 1200px;
+  padding: 108px 0px 0px;
+}
+
+.img-square {
+  width: 629px;
+  padding: 425px 0px 0px;
+}
+
+.img-circle {
+  width: 900px;
+  padding: 100px 0px 0px;
+}
+
+.img-key {
+    position: relative;
+}
+.img-key
+{
+    content: '';
+    position: absolute;
+    top: 7px;
+    left: 9px;
+}
+
+.img-square {
+    display: inline-block;
+    position: relative;
+}
+.img-square {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.img-circle {
+    display: inline-block;
+    position: relative;
+}
+.img-circle{
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 102px;
+    left: 284.5px;
+}
+
+.img-rooms {
+    display: inline-block;
+    position: relative;
+}
+.img-rooms {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 258px;
+}
+.img-fluff {
+  display: inline-block;
+  position: relative;
+}
+.img-fluff {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 7px;
+  left: 150px;
+}
